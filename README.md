@@ -1,7 +1,7 @@
 <div style="text-align:center"><img src="https://img.cinemablend.com/cb/f/8/5/4/0/a/f8540aac64ee6cd1412906b2be8c19052c788d9263a8be5d3853facf11aa91b0.jpg" height=400 /></div>
 
 <p align="center" 
-    <span style="font-size:80pt"> Api Sentiment </span>
+    <span style="font-size:200pt"> Api Sentiment </span>
 </p>
 
 This week's project is all about creating our own API and be the data provider 🥳.
